@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-telegram-bot==20.0
+pymongo
+requests
+beautifulsoup4
+apscheduler
+pydantic
+
